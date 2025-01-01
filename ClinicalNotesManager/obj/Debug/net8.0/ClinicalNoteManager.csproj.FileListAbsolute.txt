@@ -1,0 +1,17 @@
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\bin\Debug\net8.0\ClinicalNoteManager.deps.json
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\bin\Debug\net8.0\ClinicalNoteManager.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\bin\Debug\net8.0\ClinicalNoteManager.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\bin\Debug\net8.0\ClinicalNote.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\bin\Debug\net8.0\Vitals.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\bin\Debug\net8.0\ClinicalNote.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\bin\Debug\net8.0\Vitals.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\ClinicalNoteManager.csproj.AssemblyReference.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\ClinicalNoteManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\ClinicalNoteManager.AssemblyInfoInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\ClinicalNoteManager.AssemblyInfo.cs
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\ClinicalNoteManager.csproj.CoreCompileInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\Clinical.4BABF9CF.Up2Date
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\ClinicalNoteManager.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\refint\ClinicalNoteManager.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\ClinicalNoteManager.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotesManager\obj\Debug\net8.0\ref\ClinicalNoteManager.dll

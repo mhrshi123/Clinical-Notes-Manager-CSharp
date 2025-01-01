@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClinicalNote/1.0.0": {
+        "dependencies": {
+          "Vitals": "1.0.0"
+        },
+        "runtime": {
+          "ClinicalNote.dll": {}
+        }
+      },
+      "Vitals/1.0.0": {
+        "runtime": {
+          "Vitals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClinicalNote/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vitals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

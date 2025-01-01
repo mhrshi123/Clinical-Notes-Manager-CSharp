@@ -1,0 +1,11 @@
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\Classes\obj\Debug\net8.0\ref\Classes.dll

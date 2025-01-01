@@ -1,0 +1,15 @@
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\bin\Debug\net8.0\ClinicalNote.deps.json
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\bin\Debug\net8.0\ClinicalNote.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\bin\Debug\net8.0\ClinicalNote.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\bin\Debug\net8.0\Vitals.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\bin\Debug\net8.0\Vitals.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\ClinicalNote.csproj.AssemblyReference.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\ClinicalNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\ClinicalNote.AssemblyInfoInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\ClinicalNote.AssemblyInfo.cs
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\ClinicalNote.csproj.CoreCompileInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\Clinical.74706B10.Up2Date
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\ClinicalNote.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\refint\ClinicalNote.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\ClinicalNote.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\Programming Concepts 2\Assignments\Assignment3_Pandya_Maharshi\ClinicalNotes\obj\Debug\net8.0\ref\ClinicalNote.dll
